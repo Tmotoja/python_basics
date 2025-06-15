@@ -11,7 +11,7 @@ Repozytorium może być przydatne dla osób początkujących, które chcą pozna
 
 1. Sklonuj repozytorium na swój komputer:
    ```
-   git clone https://github.com/twoja-nazwa-uzytkownika/python_basics.git
+   git clone https://github.com/Tmotoja/python_basics.git
    ```
 2. Przejdź do katalogu repozytorium:
    ```
